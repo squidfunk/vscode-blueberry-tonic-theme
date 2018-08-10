@@ -1,0 +1,22 @@
+{
+  "name": "vscode-artifact-theme",
+  "displayName": "Artifact",
+  "description": "",
+  "version": "0.1.0",
+  "publisher": "squidfunk",
+  "engines": {
+    "vscode": "^1.25.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Artifact",
+        "uiTheme": "vs-dark",
+        "path": "./themes/artifact.json"
+      }
+    ]
+  }
+}
