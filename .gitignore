@@ -20,3 +20,6 @@
 
 # macOS internals
 .DS_Store
+
+# IDs
+.vscode

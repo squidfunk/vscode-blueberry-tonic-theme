@@ -1,6 +1,6 @@
 {
-  "name": "vscode-artifact-theme",
-  "displayName": "Artifact",
+  "name": "vscode-blueberry-tonic-theme",
+  "displayName": "Blueberry Tonic Theme",
   "description": "",
   "version": "0.1.0",
   "publisher": "squidfunk",
@@ -13,10 +13,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Artifact",
+        "label": "Blueberry Tonic Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/artifact.json"
+        "path": "./themes/blueberry-tonic.json"
       }
     ]
   }
 }
+
+oke4uzu3hxeuk5scvxqrnwn4s6t54qp6f2vsvirjz25ndolhpblq
