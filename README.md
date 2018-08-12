@@ -1,10 +1,14 @@
-<img src="assets/logo.png" style="text-align: center" width="720" />
+<p align="center">
+  <img src="assets/logo.png" width="360" />
+</p>
+
+---
 
 # Blueberry Tonic Theme
 
 A Theme for Visual Studio Code
 
-<img src="assets/screenshot.png" style="text-align: center" />
+<img src="assets/screenshot.png" />
 
 ## Installation
 
