@@ -1,8 +1,23 @@
 {
   "name": "vscode-blueberry-tonic-theme",
-  "displayName": "Blueberry Tonic Theme",
-  "description": "A refreshing theme for Visual Studio Code",
   "version": "0.1.0",
+  "description": "A refreshing theme for Visual Studio Code",
+  "homepage": "https://github.com/squidfunk/vscode-blueberry-tonic-theme",
+  "bugs": {
+    "url": "https://github.com/squidfunk/vscode-blueberry-tonic-theme/",
+    "email": "martin.donath@squidfunk.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Martin Donath",
+    "email": "martin.donath@squidfunk.com"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/squidfunk/vscode-blueberry-tonic-theme.git"
+  },
+  "displayName": "Blueberry Tonic Theme",
   "publisher": "squidfunk",
   "engines": {
     "vscode": "^1.25.0"
