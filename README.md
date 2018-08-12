@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="360" />
+  <img src="https://raw.github.com/squidfunk/vscode-blueberry-tonic-theme/master/assets/logo.png" width="360" />
 </p>
 
 ---
@@ -8,7 +8,7 @@
 
 A Theme for Visual Studio Code
 
-<img src="assets/screenshot.png" />
+<img src="https://raw.github.com/squidfunk/vscode-blueberry-tonic-theme/master/assets/screenshot.png" />
 
 ## Installation
 
