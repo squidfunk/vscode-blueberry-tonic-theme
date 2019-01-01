@@ -194,7 +194,7 @@
     //"inputValidation.infoBackground": "#063b49",
     //"inputValidation.warningBackground": "#352a05",
     //"list.dropBackground": "#eeffff20",
-    //"list.errorForeground": "#ea4646",
+    "list.errorForeground": "#EF5350",
     //"list.inactiveFocusBackground": "#313135",
     //"list.invalidItemForeground": "#b89500",
     //"list.warningForeground": "#4d9e4d",
@@ -255,7 +255,8 @@
       "name": "Variable",
       "scope": [
         "variable",
-        "string constant.other.placeholder"
+        "string constant.other.placeholder",
+        "support.variable.property.dom"
       ],
       "settings": {
         "foreground": "#EEFFFF"
@@ -267,7 +268,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#84FFB7"
+        "foreground": "#c6ffde"
       }
     },
     {
@@ -284,6 +285,8 @@
       "name": "Object keys",
       "scope": [
         "meta.object-literal.key",
+        "support.variable.property",
+        "variable.other.property",
         "variable.parameter.function-call"
       ],
       "settings": {
