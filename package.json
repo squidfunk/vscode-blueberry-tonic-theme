@@ -34,5 +34,10 @@
         "path": "./themes/blueberry-tonic.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "24d86704-e5f6-4f42-860b-72339e74c58b",
+    "publisherDisplayName": "squidfunk",
+    "publisherId": "a0f4cf13-ecd5-434a-8063-585e0a929d81"
   }
 }

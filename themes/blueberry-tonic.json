@@ -393,6 +393,7 @@
     {
       "name": "Class, Support",
       "scope": [
+        "entity.name.type",
         "support.type",
         "support.class",
         "support.orther.namespace.use.php",
@@ -438,11 +439,11 @@
         "string",
         "constant.other.symbol",
         "constant.other.key",
-        "entity.other.inherited-class",
         "markup.inserted.git_gutter",
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
         "punctuation.quote.double.terraform",
-        "variable.assignment.terraform"
+        "variable.assignment.terraform",
+        "variable.other.enummember"
       ],
       "settings": {
         "foreground": "#C3E88D"
