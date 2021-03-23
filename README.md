@@ -13,7 +13,7 @@ A Theme for Visual Studio Code
 ## Installation
 
 * Enter Visual Sudio Code
-* Launch *Quick Open* with <kbd>⌘</kbd>+<kbd>P</kbd>
+* Launch *Quick Open* with <kbd>⌘</kbd>+<kbd>P</kbd> or <kbd>^</kbd>+<kbd>P</kbd>
 * Paste `ext install vscode-blueberry-tonic-theme` and hit <kbd>Enter</kbd>
 
 ## License
